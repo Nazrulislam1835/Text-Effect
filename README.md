@@ -19,7 +19,7 @@ project-folder/
 ## 🛠️ Usage
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/nazrulislam1835/Text-effect.git]
+   git clone https://github.com/nazrulislam1835/Text-effect.git
 2. Open index.html in your browser.
 
 ## 📸 Preview
