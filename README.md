@@ -3,8 +3,7 @@
 A simple HTML & CSS project that displays text with a smooth bouncing animation and layered shadow.
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://nazrulislam1835.github.io/text-effect/)  
-*(Replace `your-username` and `text-effect` with your actual repository info.)*
+[View on GitHub Pages](https://github.com/Nazrulislam1835/Text-Effect.git)
 
 ## ✨ Features
 - Pure HTML & CSS — no JavaScript needed
@@ -20,6 +19,7 @@ project-folder/
 ## 🛠️ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nazrulislam1835/text-effect.git
+   git clone [https://github.com/nazrulislam1835/Text-effect.git]
 2. Open index.html in your browser.
-3. 📸 Preview
+
+![##📸 Preview](Screenshot 2025-09-17 220008.png)
